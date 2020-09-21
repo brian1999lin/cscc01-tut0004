@@ -1,4 +1,4 @@
-# cscc01-tut0004
+# CSCC01: TUT0004
 
 Git respository for TUT0004 F20. 
 
