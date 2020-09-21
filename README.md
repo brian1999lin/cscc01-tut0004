@@ -1,6 +1,6 @@
 # cscc01-tut0004
 
-Git respository for TUT0004 F20.
+Git respository for TUT0004 F20. 
 
 Course website: https://cmsweb.utsc.utoronto.ca/cscc01f20/
 
