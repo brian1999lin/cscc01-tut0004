@@ -5,7 +5,7 @@ Git respository for TUT0004 F20.
 Course website: https://cmsweb.utsc.utoronto.ca/cscc01f20/
 
 ## Tutorial Information
-Contact: briankw.lin<at>mail.utoronto.ca, or by making a private Piazza post.
+Contact: briankw.lin\<at\>mail.utoronto.ca, or by making a private Piazza post.
 
 Tutorial time: Tuesdays 10:00-11:00AM
 
