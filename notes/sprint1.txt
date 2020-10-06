@@ -21,7 +21,7 @@ A quick refresher of the general idea:
 1. Pick a task from the JIRA board.
 2. Branch off master using the syntax USERNAME/JIRA-TASK-HERE as your branch name.
 3. Continue committing to this branch until you're finished with the feature.
-4. Merge master into the branch so that the branch is updated.
+4. Merge master into the feature branch so that the branch is updated.
 5. Create a pull request with a detailed description of what is in the commit.
-6. Have someone review the code, and when it's ready, "Squash and merge" the commit, deleting the branch after it's merged.
+6. Have someone review the code, and when it's ready, "Squash and merge" the commit into master, deleting the branch after it's merged.
 7. Update JIRA.
