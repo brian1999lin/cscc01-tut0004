@@ -1,0 +1,27 @@
+PREFACE: As a TA, I'm going to mark against the Sprint 1 rubric here: https://cmsweb.utsc.utoronto.ca/cscc01f20/project/Sprint1_marking.txt.
+As long as you follow the rubric, you'll be fine.
+
+Q: Do I complete the architecture design and CRC cards before I start coding?
+A: Ideally you should. Example: https://github.com/brian1999lin/cscc01-tut0004/blob/master/tut2/final-project-example/example-system-design.docx
+
+Q: Do I need to make a standup channel to post our progress for marks?
+A: Per the rubric, you need a channel named #standup. CTRL+F "Daily Stand-ups". *Everyone* needs to post their status.
+
+Q: When is Sprint 1?
+A: Officially, it starts when the Sprint 1 planning meeting ends (Oct. 8), and Sprint 1 ends (Oct. 23).
+
+Q: When do we notify you about standups?
+A: Ping me every time you start a standup.
+
+Q: How do we name our branches? How do we do PRs?
+A: I covered this in our first tutorial. Watch here: https://www.youtube.com/watch?v=JYwWf3ocMBs
+BE SURE TO READ THE RUBRIC AS IT COVERS WHAT IS EXPECTED!
+
+A quick refresher of the general idea:
+1. Pick a task from the JIRA board.
+2. Branch off master using the syntax USERNAME/JIRA-TASK-HERE as your branch name.
+3. Continue committing to this branch until you're finished with the feature.
+4. Merge master into the branch so that the branch is updated.
+5. Create a pull request with a detailed description of what is in the commit.
+6. Have someone review the code, and when it's ready, "Squash and merge" the commit, deleting the branch after it's merged.
+7. Update JIRA.
